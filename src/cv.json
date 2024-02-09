@@ -76,7 +76,7 @@
       ]
     },
     {
-      "name": "TypeScript",
+      "name": "Java",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web",
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Spring Boot",
+      "name": "SpringBoot",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web",
@@ -122,17 +122,6 @@
         "Colaboración",
         "Código Fuente",
         "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
       ]
     },
     {
@@ -174,37 +163,8 @@
         "Optimización del SEO",
         "Mejor Accesibilidad"
       ],
-      "url": "https://luminy-web.vercel.app/"
-    },
-    {
-      "name": "Coming...",
-      "isActive": true,
-      "description": "Building...",
-      "highlights": [
-        "Astro",
-        "Tailwind"
-      ],
-      "url": ""
-    },
-    {
-      "name": "Coming...",
-      "isActive": true,
-      "description": "Building...",
-      "highlights": [
-        "Astro",
-        "Tailwind"
-      ],
-      "url": ""
-    },
-    {
-      "name": "Coming...",
-      "isActive": true,
-      "description": "Building...",
-      "highlights": [
-        "Astro",
-        "Tailwind"
-      ],
-      "url": ""
+      "url": "https://luminy-web.vercel.app/",
+      "github": "https://github.com/adonis-og/luminy-web"
     },
     {
       "name": "Coming...",
