@@ -1,0 +1,230 @@
+{
+  "basics": {
+    "name": "Adonys Pereda",
+    "label": "Estudiante de Gestión de Sistemas de Información, con un alto interés intelectual y un enfoque de comunidad",
+    "image": "/me.webp",
+    "email": "adonispereda1@gmail.com",
+    "phone": "+51 950360685",
+    "url": "https://github.com/adonis-og",
+    "summary": "Acutalmente estudiante de gestión de sistemas de información en ZEGEL, con solidos conocimientos y con una mentalidad orientada a la resolución de problemas y un enfoque de comunidad y en la calidad del código, me esfuerzo por crear soluciones efectivas y eficientes. Mi habilidad para trabajar en equipo y comunicarme de manera efectiva me permite colaborar en proyectos interdisciplinarios y adaptarme rápidamente a nuevos entornos de trabajo.",
+    "location": {
+      "address": "",
+      "postalCode": "08820",
+      "city": "Lima",
+      "countryCode": "ES",
+      "region": "Peru"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Adonys Pereda",
+        "url": "https://linkedin.com/in/adonys-pereda-b01525226/"
+      },
+      {
+        "network": "GitHub",
+        "username": "adonis-og",
+        "url": "https://github.com/adonis-og"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Escuela de Educación Superior Tecnológica Privada (ZEGEL)",
+      "area": "Gestión de Sistemas de Información",
+      "studyType": "Bachelor",
+      "startDate": "2021-01-01",
+      "endDate": "2026-01-01",
+      "score": "8"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Spring Boot",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Luminy Awards Reimaginada",
+      "isActive": true,
+      "description": "La web de los premios Luminy reimaginada e optimizada",
+      "highlights": [
+        "Optimización del SEO",
+        "Mejor Accesibilidad"
+      ],
+      "url": "https://luminy-web.vercel.app/"
+    },
+    {
+      "name": "Coming...",
+      "isActive": true,
+      "description": "Building...",
+      "highlights": [
+        "Astro",
+        "Tailwind"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Coming...",
+      "isActive": true,
+      "description": "Building...",
+      "highlights": [
+        "Astro",
+        "Tailwind"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Coming...",
+      "isActive": true,
+      "description": "Building...",
+      "highlights": [
+        "Astro",
+        "Tailwind"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Coming...",
+      "isActive": true,
+      "description": "Building...",
+      "highlights": [
+        "Astro",
+        "Tailwind"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Coming...",
+      "isActive": true,
+      "description": "Building...",
+      "highlights": [
+        "Astro",
+        "Tailwind"
+      ],
+      "url": ""
+    }
+  ]
+}
