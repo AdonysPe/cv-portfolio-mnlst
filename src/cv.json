@@ -32,7 +32,7 @@
       "institution": "Escuela de Educación Superior Tecnológica Privada (ZEGEL)",
       "area": "Gestión de Sistemas de Información",
       "studyType": "Bachelor",
-      "startDate": "2021-01-01",
+      "startDate": "2022-01-01",
       "endDate": "2026-01-01",
       "score": "8"
     }
@@ -171,8 +171,7 @@
       "isActive": true,
       "description": "Building...",
       "highlights": [
-        "Astro",
-        "Tailwind"
+
       ],
       "url": ""
     },
@@ -181,8 +180,7 @@
       "isActive": true,
       "description": "Building...",
       "highlights": [
-        "Astro",
-        "Tailwind"
+
       ],
       "url": ""
     }
