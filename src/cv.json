@@ -23,7 +23,7 @@
       {
         "network": "GitHub",
         "username": "adonis-og",
-        "url": "https://github.com/adonis-og"
+        "url": "https://github.com/AdonysPe"
       }
     ]
   },
@@ -167,13 +167,13 @@
       "github": "https://github.com/adonis-og/luminy-web"
     },
     {
-      "name": "Coming...",
+      "name": "Og Type",
       "isActive": true,
-      "description": "Building...",
+      "description": "Mejorar tus habilidades de escritura y visualiza tu puntación",
       "highlights": [
-
+        "HTML, CSS Y JS"
       ],
-      "url": ""
+      "url": "https://og-type.vercel.app/"
     },
     {
       "name": "Coming...",
